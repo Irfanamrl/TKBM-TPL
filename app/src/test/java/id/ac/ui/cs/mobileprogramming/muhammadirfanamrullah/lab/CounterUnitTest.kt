@@ -1,4 +1,4 @@
-package com.example.helloworld
+package id.ac.ui.cs.mobileprogramming.muhammadirfanamrullah.lab
 
 import org.junit.Test
 
@@ -9,9 +9,11 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class CounterUnitTest {
+
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun `addOne really adding one`() {
+        val result = MainActivity().addOne(1)
+        assertEquals(2, result)
     }
 }
