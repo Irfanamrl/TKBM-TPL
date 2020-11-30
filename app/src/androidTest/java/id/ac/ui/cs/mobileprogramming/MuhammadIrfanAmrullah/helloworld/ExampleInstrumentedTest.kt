@@ -1,4 +1,4 @@
-package com.example.helloworld
+package id.ac.ui.cs.mobileprogramming.MuhammadIrfanAmrullah.helloworld
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.helloworld
+package id.ac.ui.cs.mobileprogramming.MuhammadIrfanAmrullah.helloworld
 
 import android.content.BroadcastReceiver
 import android.content.Context
@@ -17,6 +17,7 @@ import android.widget.ListView
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import id.ac.ui.cs.mobileprogramming.MuhammadIrfanAmrullah.helloworld.R
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.lang.Exception
