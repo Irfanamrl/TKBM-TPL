@@ -5,7 +5,7 @@
 #include <string>
 
 extern "C" JNIEXPORT jint JNICALL
-Java_com_example_helloworld_MainActivity_add( JNIEnv *env, jobject, jint x, jint y) {
+Java_id_ac_ui_cs_mobileprogramming_MuhammadIrfanAmrullah_helloworld_MainActivity_add( JNIEnv *env, jobject, jint x, jint y) {
 
     //return an integer
     return x + y;
