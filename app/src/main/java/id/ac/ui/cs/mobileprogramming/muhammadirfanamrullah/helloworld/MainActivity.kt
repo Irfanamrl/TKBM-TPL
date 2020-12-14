@@ -1,7 +1,8 @@
-package com.example.helloworld
+package id.ac.ui.cs.mobileprogramming.muhammadirfanamrullah.helloworld
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import id.ac.ui.cs.mobileprogramming.muhammadirfanamrullah.helloworld.R
 
 class MainActivity : AppCompatActivity() {
 
